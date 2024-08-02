@@ -55,7 +55,7 @@
 #define OL_WARNING_PRINT OL_TEMP_WARNING_PRINT
 
 #include <cmath>
-
+#include <numeric>
 #include <algorithm>
 #include <string>
 #include <vector>
